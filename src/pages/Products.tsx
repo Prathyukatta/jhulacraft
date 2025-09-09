@@ -270,7 +270,7 @@ const Products = () => {
 
       {/* Fixed header + spacer so hero isn’t overlapped */}
       <Header />
-      <div className="h-[80px]" />
+      <div className="h-[8px]" />
 
       {/* Hero / Title bar */}
       <div className="relative h-48 bg-gradient-to-r from-gray-800 to-gray-900 flex items-center justify-center">
